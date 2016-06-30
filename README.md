@@ -1,6 +1,8 @@
 # projectmobility
 
-This project is initially dedicated to getting myself, ravenprocellous, and my partner out of our family's homes and set up in our car with a tent. We plan to travel from the East Coast to the West Coast, visiting wherever we plase and improving this project and others on the road.
+This is a project started by ravenprocellous and
+
+We believe that it is possible to live a completely nomadic lifestyle, earning money through tools on the internet, and keeping costs down with the help of technology. Our goal is to move from our current position of living with our family to living a mobile lifestyle that allows us to move from place to place while earning enough to fill the gas tank and our stomachs, all while learning about and testing the limits of humans in the 21st century.
 
 Ideas to include:
 
