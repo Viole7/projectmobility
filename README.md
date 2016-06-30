@@ -6,11 +6,11 @@ We believe that it is possible to live a completely nomadic lifestyle, earning m
 
 Ideas to include:
 
-List of costs and to-dos to keep track of and check off at we meet various goals
-Easily document through photos and blog our trip through the USA
-Protect ourselves with sousveilance etc.
-Develop a custom Linux environment for us
-Develop a custom Android ROM
-Keep track of expenses, revenue etc.
-Foster a community of likeminded individuals who wish to live a more mobile life
-Discover the best ways to make money while on the move
+* List of costs and to-dos to keep track of and check off at we meet various goals
+* Easily document through photos and blog our trip through the USA
+* Protect ourselves with sousveilance etc.
+* Develop a custom Linux environment for us
+* Develop a custom Android ROM
+* Keep track of expenses, revenue etc.
+* Foster a community of likeminded individuals who wish to live a more mobile life
+* Discover the best ways to make money while on the move
